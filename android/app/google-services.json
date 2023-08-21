@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "122815847628",
+    "project_id": "icthub-a6bc5",
+    "storage_bucket": "icthub-a6bc5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122815847628:android:93eae384afe86117667669",
+        "android_client_info": {
+          "package_name": "com.example.listview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "122815847628-4fnk9m326sb3oni6rh4j6bniaj3ems2i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzdmQ3Ehp-m-vMA1xR6xIZHl77nPf4EQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "122815847628-4fnk9m326sb3oni6rh4j6bniaj3ems2i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
